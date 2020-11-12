@@ -1,0 +1,27 @@
+/*Police IBM Plex Mono Bold pour les titres et les soius-titres*/
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;700&display=swap');
+
+/*Police Share Tech piur les âragraphes*/
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'IBM PLex Mono', monospace;
+    font-style: 16px;
+    line-height: 1.6;
+    margin: 0 20px;
+    color: #C6DFEA;
+}
+
+p{
+    font-family: 'Share Tech', sans-serif;
+    font-style: 16px;
+    line-height: 1.6;
+    margin: 0 20px;
+    color: #C6DFEA;
+}
+
+a{
+    font-family: 'IBM PLex Mono', monospace;
+    text-decoration: none;
+    color: #C6DFEA;
+}
