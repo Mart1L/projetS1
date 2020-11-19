@@ -19,9 +19,21 @@
     height: 4px;
     position: absolute;
     left: 0;
+    transition: all .4s ease-in-out;
 }
 .nav-toggle-bar::before {top: -10px;}
 .nav-toggle-bar::after {top: 10px;}
+
+.menu-open .nav-toggle-bar{
+    transform: rotate(135deg);
+}
+
+.menu-open .nav-toggle-bar::before,
+.menu-open .nav-toggle-bar::after {
+    transform: rotate(90deg);
+    top: 0;
+}
+
 
 #moncercle{
     background: #B7D7E5;
