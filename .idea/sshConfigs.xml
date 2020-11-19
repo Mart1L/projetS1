@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="d931a.ftp.infomaniak.com" id="aba4b0e8-9fbf-49d7-ae69-3da664b7db65" port="22" customName="projets1" nameFormat="CUSTOM" username="d931a_martintamarre">
+        <option name="customName" value="projets1" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
