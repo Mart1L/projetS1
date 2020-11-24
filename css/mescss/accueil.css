@@ -1,0 +1,91 @@
+/*Position de l'image correspondant au premier côté arrondi */
+h1:first-of-type {
+    top: 240px;
+}
+
+h2:first-of-type {
+    top: 240px;
+    font-style: italic;
+    font-size: 20px;
+    width: 318px;
+}
+#lilblack_rect {
+    width: 318px;
+    height: 65px;
+    background-color: #000000;
+    top: 622px;
+    padding: 2px;
+    position: absolute;
+    margin-left: 28.5px;
+    margin-right: 28.5px;
+    border-width: 4px;
+    border-color: white;
+    z-index: 2;
+}
+.redarrow {
+    z-index: 3;
+}
+p:first-of-type {
+    top: 970px;
+}
+
+h3:first-of-type {
+    top: 1513px;
+}
+
+p:nth-of-type(2) {
+    top: 1787px;
+}
+
+h3:nth-of-type(2) {
+    top: 2061px;
+}
+
+p:nth-of-type(3) {
+    top: 2367px;
+}
+
+h3:last-of-type {
+    top: 2573px;
+}
+
+p:last-of-type {
+    top: 2934px;
+}
+.aaccueil1 {
+    top: 434px;
+    z-index: 1;
+    display: flex;
+    position: absolute;
+}
+
+
+
+.aaccueil2  {
+    top: 847px;
+    z-index: 2;
+    display: flex;
+    position: absolute;
+}
+
+#firstblue_rect {
+    width: 375px;
+    height: 385px;
+    background-color: #435C6D;
+    top: 546px;
+    display: flex;
+    position: absolute;
+    z-index: 1;
+}
+
+#firstblack_rect {
+    width: 375px;
+    height: 479px;
+    background-color: #000000;
+    top: 929px;
+    display: flex;
+    position: absolute;
+    z-index: 1;
+}
+
+

@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f9b1679-a6da-4c43-b99c-000919a93ebc" name="Default Changelist" comment="Menu un" />
+    <list default="true" id="6f9b1679-a6da-4c43-b99c-000919a93ebc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/mescss/accueil.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/aaccueil1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/aaccueil2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/downarrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/gmail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/logo-fini-sans-fond.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/logoclaire.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/slogan.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/graphic-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/graphic-styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/darksidelogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/downarrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/logo-fini-sans-fond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/logo-hiden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/logo-the-darks-of-pp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/logoclaire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +91,17 @@
       <workItem from="1605257279372" duration="1468000" />
       <workItem from="1605360868578" duration="591000" />
       <workItem from="1605770145315" duration="2433000" />
+      <workItem from="1605802214081" duration="708000" />
+      <workItem from="1605804785158" duration="8000" />
+      <workItem from="1605816035941" duration="3020000" />
+      <workItem from="1605980594298" duration="1286000" />
+      <workItem from="1606063107547" duration="578000" />
+      <workItem from="1606162645646" duration="1625000" />
+      <workItem from="1606220307966" duration="1052000" />
+      <workItem from="1606227441245" duration="1275000" />
+      <workItem from="1606229232913" duration="8000" />
+      <workItem from="1606235626880" duration="3464000" />
+      <workItem from="1606247741309" duration="8610000" />
     </task>
     <task id="LOCAL-00001" summary="Première page html">
       <created>1605000593428</created>
@@ -98,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605775979263</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Style graphiques un">
+      <created>1605802318267</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605802318267</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +150,8 @@
     <MESSAGE value="Normalize" />
     <MESSAGE value="Texte accueil" />
     <MESSAGE value="Typographies un" />
-    <option name="LAST_COMMIT_MESSAGE" value="Typographies un" />
+    <MESSAGE value="Style graphiques un" />
+    <option name="LAST_COMMIT_MESSAGE" value="Style graphiques un" />
   </component>
   <component name="WindowStateProjectService">
     <state x="997" y="165" key="#SSH_Configurations" timestamp="1605027540803">
@@ -121,10 +162,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605118128380" />
-    <state x="489" y="125" width="749" height="859" key="CommitChangelistDialog2" timestamp="1605776083543">
+    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2" timestamp="1605802316603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="489" y="125" width="749" height="859" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605776083543" />
+    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605802316603" />
     <state x="922" y="165" key="SettingsEditor" timestamp="1605027658409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
