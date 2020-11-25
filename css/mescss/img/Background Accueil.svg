@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1301" height="2786" viewBox="0 0 1301 2786">
+  <g id="Background_Accueil" data-name="Background Accueil" transform="translate(472 -436)">
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(-297 1967)" stroke="#707070" stroke-width="1">
+      <ellipse cx="563" cy="317" rx="563" ry="317" stroke="none"/>
+      <ellipse cx="563" cy="317" rx="562.5" ry="316.5" fill="none"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(-260 2525)" fill="#728591" stroke="#10293a" stroke-width="1">
+      <ellipse cx="441.5" cy="348.5" rx="441.5" ry="348.5" stroke="none"/>
+      <ellipse cx="441.5" cy="348.5" rx="441" ry="348" fill="none"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(-375 1371)" fill="#435c6d" stroke="#435c6d" stroke-width="1">
+      <ellipse cx="543.5" cy="326.5" rx="543.5" ry="326.5" stroke="none"/>
+      <ellipse cx="543.5" cy="326.5" rx="543" ry="326" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(-121 436)" fill="#435c6d" stroke="#435c6d" stroke-width="1">
+      <ellipse cx="441.5" cy="364.5" rx="441.5" ry="364.5" stroke="none"/>
+      <ellipse cx="441.5" cy="364.5" rx="441" ry="364" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(-472 849)" stroke="#000" stroke-width="1">
+      <ellipse cx="507.5" cy="316" rx="507.5" ry="316" stroke="none"/>
+      <ellipse cx="507.5" cy="316" rx="507" ry="315.5" fill="none"/>
+    </g>
+  </g>
+</svg>

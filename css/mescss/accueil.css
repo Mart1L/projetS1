@@ -1,19 +1,22 @@
 /*Position de l'image correspondant au premier côté arrondi */
 h1:first-of-type {
-    top: 240px;
+    top: 220px;
 }
 
-h2:first-of-type {
-    top: 240px;
+.intro h2 {
+    top: 230px;
     font-style: italic;
     font-size: 20px;
     width: 318px;
+    vertical-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 #lilblack_rect {
     width: 318px;
     height: 65px;
     background-color: #000000;
-    top: 622px;
+    top: 612px;
     padding: 2px;
     position: absolute;
     margin-left: 28.5px;
@@ -23,35 +26,57 @@ h2:first-of-type {
     z-index: 2;
 }
 .redarrow {
+    top: 701px;
+    position: absolute;
+    margin-left: 140px;
+    margin-right: auto;
     z-index: 3;
 }
-p:first-of-type {
-    top: 970px;
+.intro p {
+    top: 570px;
+    width: 291px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-h3:first-of-type {
-    top: 1513px;
+.articleun h3 {
+    top: 813px;
+    margin-left: 42px;
 }
 
-p:nth-of-type(2) {
-    top: 1787px;
+.affichen1 {
+    top: 1624px;
+    position: absolute;
+    margin-left: 42px;
+    margin-right: auto;
+    z-index: 3;
 }
 
-h3:nth-of-type(2) {
+.articleun p {
+    top: 1087px;
+    margin-left: 42px;
+}
+
+.articledeux h3 {
     top: 2061px;
+    margin-left: 42px;
 }
 
-p:nth-of-type(3) {
+.articledeux p {
     top: 2367px;
+    margin-left: 42px;
 }
 
-h3:last-of-type {
+.articletrois h3 {
     top: 2573px;
+    margin-left: 42px;
 }
 
-p:last-of-type {
+.articletrois p {
     top: 2934px;
+    margin-left: 42px;
 }
+
 .aaccueil1 {
     top: 434px;
     z-index: 1;
@@ -59,10 +84,22 @@ p:last-of-type {
     position: absolute;
 }
 
-
-
 .aaccueil2  {
     top: 847px;
+    z-index: 2;
+    display: flex;
+    position: absolute;
+}
+
+.aaccueil3  {
+    top:  1367px;
+    z-index: 2;
+    display: flex;
+    position: absolute;
+}
+
+.aaccueil4  {
+    top:  2054px;
     z-index: 2;
     display: flex;
     position: absolute;
@@ -88,4 +125,12 @@ p:last-of-type {
     z-index: 1;
 }
 
-
+#secondblue_rect {
+    width: 375px;
+    height: 687px;
+    background-color: #435C6D;
+    top: 1369px;
+    display: flex;
+    position: absolute;
+    z-index: 1;
+}
