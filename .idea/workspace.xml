@@ -2,21 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9b1679-a6da-4c43-b99c-000919a93ebc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/mescss/img/Background Accueil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mescss/img/Background Accueil.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mescss/img/Deuxième Article.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mescss/img/Deuxième Article.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mescss/img/Intersection 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mescss/img/Slogan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mescss/img/aaccueil3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mescss/img/aaccueil4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/mescss/img/affichen1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/Slogan.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/aaccueil5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/air-pollution-in-atmosphere-design.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/mmiblanc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/img/ordiquantique.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/accueil.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/accueil.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/affiche1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/downarrow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/downarrow.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/slogan.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/Background Accueil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/Deuxième Article.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/Deuxième Article.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/Intersection 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/Slogan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/air-pollution-in-atmosphere-design.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/img/gmail.svg" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/img/gmail.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -100,7 +99,10 @@
       <workItem from="1606247741309" duration="8785000" />
       <workItem from="1606292907032" duration="3255000" />
       <workItem from="1606301463177" duration="980000" />
-      <workItem from="1606305841077" duration="2036000" />
+      <workItem from="1606305841077" duration="4374000" />
+      <workItem from="1606328129478" duration="1725000" />
+      <workItem from="1606332500609" duration="8690000" />
+      <workItem from="1606383028327" duration="7604000" />
     </task>
     <task id="LOCAL-00001" summary="Première page html">
       <created>1605000593428</created>
@@ -144,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606257583124</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Html accueil avancé">
+      <created>1606307962177</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606307962177</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +167,8 @@
     <MESSAGE value="Typographies un" />
     <MESSAGE value="Style graphiques un" />
     <MESSAGE value="Page d'accueil &#10;Page d'arrivée sur le site presque fini" />
-    <option name="LAST_COMMIT_MESSAGE" value="Page d'accueil &#10;Page d'arrivée sur le site presque fini" />
+    <MESSAGE value="Html accueil avancé" />
+    <option name="LAST_COMMIT_MESSAGE" value="Html accueil avancé" />
   </component>
   <component name="WindowStateProjectService">
     <state x="997" y="165" key="#SSH_Configurations" timestamp="1605027540803">
@@ -169,21 +179,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605118128380" />
-    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2" timestamp="1606257578419">
+    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2" timestamp="1606307957149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606257578419" />
+    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606307957149" />
     <state x="922" y="165" key="SettingsEditor" timestamp="1605027658409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605027658409" />
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606305851451">
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606307972090">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606305851451" />
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606307972090" />
     <state x="1306" y="250" key="ftp.server.browser" timestamp="1605027653058">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1306" y="250" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1605027653058" />
+    <state x="830" y="412" key="publish.login" timestamp="1606344472655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="412" key="publish.login/0.0.1920.1040@0.0.1920.1040" timestamp="1606344472655" />
   </component>
 </project>

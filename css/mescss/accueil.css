@@ -2,15 +2,14 @@
 h1:first-of-type {
     top: 220px;
 }
-
+/* Section introduction*/
 .intro h2 {
     top: 230px;
     font-style: italic;
     font-size: 20px;
     width: 318px;
     vertical-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 42px;
 }
 #lilblack_rect {
     width: 318px;
@@ -39,6 +38,7 @@ h1:first-of-type {
     margin-right: auto;
 }
 
+/*Section article 1*/
 .articleun h3 {
     top: 813px;
     margin-left: 42px;
@@ -55,28 +55,83 @@ h1:first-of-type {
 .articleun p {
     top: 1087px;
     margin-left: 42px;
+    margin-right: 42px;
 }
 
+/*Section article 2*/
 .articledeux h3 {
-    top: 2061px;
+    top: 1311px;
     margin-left: 42px;
+}
+.oquantique {
+    top: 2274px;
+    position: absolute;
+    margin-left: 42px;
+    margin-right: auto;
+    z-index: 3;
 }
 
 .articledeux p {
-    top: 2367px;
+    top: 1585px;
     margin-left: 42px;
 }
 
+/*Section article 3*/
 .articletrois h3 {
-    top: 2573px;
+    top: 1743px;
     margin-left: 42px;
+}
+
+.solution {
+    top: 2803px;
+    position: absolute;
+    margin-left: 55px;
+    margin-right: auto;
+    z-index: 3;
 }
 
 .articletrois p {
-    top: 2934px;
+    top: 2047px;
     margin-left: 42px;
+    margin-right: 42px;
 }
 
+/*Footer*/
+.gmail {
+    top: 3295px;
+    position: absolute;
+    margin-left: 103px;
+    margin-right: auto;
+    z-index: 3;
+}
+
+.mmi {
+    top: 3290px;
+    position: absolute;
+    margin-left: 242px;
+    z-index: 3;
+}
+
+.footer h3 {
+    font-family: 'Share Tech', sans-serif;
+    font-size: 15px;
+    top: 2180px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60px;
+    text-align: center;
+}
+
+.footer p {
+    font-family: 'Share Tech', sans-serif;
+    font-size: 15px;
+    top: 2180px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    text-align: center;
+}
+/*Mise en place des parties arrondies*/
 .aaccueil1 {
     top: 434px;
     z-index: 1;
@@ -105,6 +160,14 @@ h1:first-of-type {
     position: absolute;
 }
 
+.aaccueil5  {
+    top:  2670px;
+    z-index: 2;
+    display: flex;
+    position: absolute;
+}
+
+/*Mise en place des rectangles de fond*/
 #firstblue_rect {
     width: 375px;
     height: 385px;
@@ -130,6 +193,36 @@ h1:first-of-type {
     height: 687px;
     background-color: #435C6D;
     top: 1369px;
+    display: flex;
+    position: absolute;
+    z-index: 1;
+}
+
+#secondblack_rect {
+    width: 375px;
+    height: 571px;
+    background-color: #000000;
+    top: 2056px;
+    display: flex;
+    position: absolute;
+    z-index: 1;
+}
+
+#firstcyan_rect {
+    width: 375px;
+    height: 555px;
+    background-color: #728591;
+    top: 2707px;
+    display: flex;
+    position: absolute;
+    z-index: 1;
+}
+
+#foot_rect {
+    width: 375px;
+    height: 140px;
+    top: 3262px;
+    background-color: #143348;
     display: flex;
     position: absolute;
     z-index: 1;
