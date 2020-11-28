@@ -1,70 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f9b1679-a6da-4c43-b99c-000919a93ebc" name="Default Changelist" comment="Html/css accueil fini">
-      <change afterPath="$PROJECT_DIR$/css/mescss/wargames.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aaccueil1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aaccueil2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aaccueil3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aaccueil4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aaccueil5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aarticleun1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aarticleun2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aarticleun3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/affichen1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/air-pollution-in-atmosphere-design.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/darksidelogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/downarrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gmail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo-fini-sans-fond.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo-hiden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo-the-darks-of-pp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logoclaire.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mmiblanc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ordinateur-quantique.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/petitlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/wargames.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wargames.html" afterDir="false" />
+    <list default="true" id="6f9b1679-a6da-4c43-b99c-000919a93ebc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/aarticleun4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/affichearticlewg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/affichearticlewg@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/petitlogo@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/accueil.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/accueil.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/graphic-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/graphic-styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/Background Accueil.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/Slogan.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/aaccueil1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/aaccueil2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/aaccueil3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/aaccueil4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/aaccueil5.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/affiche2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/affichen1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/air-pollution-in-atmosphere-design.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/by-dawn-s-early-light.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/chiffre-pollution.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/darksidelogo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/datacentersolution.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/downarrow.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/gmail.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/gmail.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/green-data-center.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/hackers.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/joshua.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/kolos.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/les-impacts-environnementaux.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/logo-fini-sans-fond.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/logo-hiden.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/logo-the-darks-of-pp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/logoclaire.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/logonumerisk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/menu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/mmiblanc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/ordinateur-quantique.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/ordiquantique.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/portugal-telecom.original.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/profil.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/wargames.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/wargames.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/wargames2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/img/x-mark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/wargames.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/wargames.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/aarticleun2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/aarticleun2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/aarticleun3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/aarticleun3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gmail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/petitlogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/petitlogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wargames.html" beforeDir="false" afterPath="$PROJECT_DIR$/wargames.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +109,7 @@
       <workItem from="1606433934616" duration="386000" />
       <workItem from="1606482477802" duration="37000" />
       <workItem from="1606503334567" duration="498000" />
-      <workItem from="1606564521325" duration="1956000" />
+      <workItem from="1606564521325" duration="10480000" />
     </task>
     <task id="LOCAL-00001" summary="Première page html">
       <created>1605000593428</created>
@@ -216,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606410324631</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Html/css accueil fini">
+      <created>1606568550471</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606568550471</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,18 +201,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605118128380" />
-    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2" timestamp="1606568292463">
+    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2" timestamp="1606568547177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606568292463" />
+    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606568547177" />
     <state x="922" y="165" key="SettingsEditor" timestamp="1605027658409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605027658409" />
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606432453314">
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606568556172">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606432453314" />
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606568556172" />
     <state x="0" y="0" width="1421" height="1027" key="dock-window-1" timestamp="1606416248795">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

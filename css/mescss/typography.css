@@ -19,6 +19,8 @@ p{
     font-style: 16px;
     line-height: 1.6;
     margin: 0 20px;
+    margin-left: 39px;
+    margin-right: 39px;
     color: #C6DFEA;
     position: relative;
     z-index: 50;
@@ -43,4 +45,6 @@ header>h1, main>h2 {
 
 h3 {
     font-size: 20px;
+    margin-left: 39px;
+    margin-right: 39px;
 }

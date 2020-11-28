@@ -1,8 +1,8 @@
 .nav-toggle {
     width: 30px;
     height: 30px;
-    position: absolute;
-    top: 30px;
+    position: fixed;
+    top: 17px;
     right: 30px;
     display: flex;
     align-items: center;
