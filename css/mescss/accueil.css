@@ -1,10 +1,16 @@
+/*Position du logo*/
+.logo {
+    margin-top: 55px;
+    margin-left: 77px;
+}
+
 /*Position de l'image correspondant au premier côté arrondi */
 h1:first-of-type {
-    top: 220px;
+    top: 250px;
 }
 /* Section introduction*/
 .intro h2 {
-    top: 230px;
+    top: 280px;
     font-style: italic;
     font-size: 20px;
     width: 318px;
@@ -40,12 +46,12 @@ h1:first-of-type {
 
 /*Section article 1*/
 .articleun h3 {
-    top: 813px;
+    top: 853px;
     margin-left: 42px;
 }
 
 .affichen1 {
-    top: 1624px;
+    top: 1621px;
     position: absolute;
     margin-left: 42px;
     margin-right: auto;
@@ -53,18 +59,18 @@ h1:first-of-type {
 }
 
 .articleun p {
-    top: 1087px;
+    top: 1157px;
     margin-left: 42px;
     margin-right: 42px;
 }
 
 /*Section article 2*/
 .articledeux h3 {
-    top: 1311px;
+    top: 1371px;
     margin-left: 42px;
 }
 .oquantique {
-    top: 2274px;
+    top: 2285px;
     position: absolute;
     margin-left: 42px;
     margin-right: auto;
@@ -72,13 +78,13 @@ h1:first-of-type {
 }
 
 .articledeux p {
-    top: 1585px;
+    top: 1645px;
     margin-left: 42px;
 }
 
 /*Section article 3*/
 .articletrois h3 {
-    top: 1743px;
+    top: 1783px;
     margin-left: 42px;
 }
 
@@ -91,7 +97,7 @@ h1:first-of-type {
 }
 
 .articletrois p {
-    top: 2047px;
+    top: 2117px;
     margin-left: 42px;
     margin-right: 42px;
 }
@@ -115,7 +121,7 @@ h1:first-of-type {
 .footer h3 {
     font-family: 'Share Tech', sans-serif;
     font-size: 15px;
-    top: 2180px;
+    top: 2230px;
     margin-left: auto;
     margin-right: auto;
     width: 60px;
@@ -125,7 +131,7 @@ h1:first-of-type {
 .footer p {
     font-family: 'Share Tech', sans-serif;
     font-size: 15px;
-    top: 2180px;
+    top: 2230px;
     margin-left: auto;
     margin-right: auto;
     width: 300px;
@@ -168,6 +174,14 @@ h1:first-of-type {
 }
 
 /*Mise en place des rectangles de fond*/
+body {
+    background-image: url("../../img/wargames.png ");
+    background-position: 0 0 0 0;
+    background-repeat: no-repeat;
+    background-color: black;
+    position: background;
+}
+
 #firstblue_rect {
     width: 375px;
     height: 385px;

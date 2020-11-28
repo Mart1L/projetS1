@@ -1,7 +1,28 @@
-body {
-    background-image: url("img/wargames.png ");
-    background-position: 0 0 0 0;
-    background-repeat: no-repeat;
-    background-color: black;
-    position: background;
+/*Header*/
+.header {
+    height: 90px;
+    width: 375px;
+}
+
+#header_rect {
+    background-color: #B7D7E5;
+    height: 90px;
+    width: 375px;
+    z-index: 2;
+    position: absolute;
+}
+
+.logo {
+    position: absolute;
+    z-index: 3;
+    top: 20px;
+    margin-left: 11px;
+}
+
+header>p {
+    color: black;
+    top: 54px;
+    margin-left: 10px;
+    font-size: 11px;
+    z-index: 3;
 }
