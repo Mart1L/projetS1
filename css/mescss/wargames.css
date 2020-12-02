@@ -12,6 +12,7 @@
 .introun  h2 {
     text-align: center;
     padding-top: 30px;
+    top : 332px;
 }
 
 .aarcticleun1 {
@@ -33,9 +34,9 @@
     top: 70px;
 }
 
- .factice h3 {
+.factice h3 {
      top: 164px;
- }
+}
 
 .factice p:nth-of-type(2) {
     width: 300px;
