@@ -2,20 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9b1679-a6da-4c43-b99c-000919a93ebc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/mescss/quantique.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aarticledeux1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aarticledeux2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/aarticledeux3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/chiffrespollunum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/datacenterq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/oquantique.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quantique.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mescss/solutions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/aarticletrois1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/aarticletrois2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/aarticletrois3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/aarticletrois4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/datacentersolu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/greendata.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hiden.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/impacts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/introsolution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kolos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/graphic-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/graphic-styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/wargames.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/wargames.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wargames.html" beforeDir="false" afterPath="$PROJECT_DIR$/wargames.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quantique.html" beforeDir="false" afterPath="$PROJECT_DIR$/quantique.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +121,9 @@
       <workItem from="1606757124012" duration="3246000" />
       <workItem from="1606810726091" duration="1235000" />
       <workItem from="1606840909704" duration="10042000" />
-      <workItem from="1606901854480" duration="1939000" />
+      <workItem from="1606901854480" duration="2194000" />
+      <workItem from="1606911017800" duration="3297000" />
+      <workItem from="1606939187307" duration="6936000" />
     </task>
     <task id="LOCAL-00001" summary="Première page html">
       <created>1605000593428</created>
@@ -197,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606672554893</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Article 2 fini">
+      <created>1606903947850</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606903947859</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +227,8 @@
     <MESSAGE value="Html/css accueil fini" />
     <MESSAGE value="Moitié de l'article 1" />
     <MESSAGE value="Article 1 fini" />
-    <option name="LAST_COMMIT_MESSAGE" value="Article 1 fini" />
+    <MESSAGE value="Article 2 fini" />
+    <option name="LAST_COMMIT_MESSAGE" value="Article 2 fini" />
   </component>
   <component name="WindowStateProjectService">
     <state x="997" y="165" key="#SSH_Configurations" timestamp="1605027540803">
@@ -226,18 +239,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606760053573" />
-    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2" timestamp="1606672550210">
+    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2" timestamp="1606903937148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606672550210" />
+    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606903937148" />
     <state x="922" y="165" key="SettingsEditor" timestamp="1605027658409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605027658409" />
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606672559420">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1606944580211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606672559420" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1606944580211" />
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606903956168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606903956168" />
     <state x="0" y="0" width="975" height="1019" key="dock-window-1" timestamp="1606844650564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
