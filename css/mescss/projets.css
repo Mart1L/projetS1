@@ -28,7 +28,7 @@ video {
 
 /*Partie Projets*/
 .projets {
-    height: 1850px;
+    height: 1950px;
 }
 .projetall img {
     top: 0;
@@ -48,5 +48,33 @@ video {
     width: 248px;
     margin-left: 110px;
     top: 67px;
+}
+
+/*Bouton vers À propos*/
+.suivant {
+    margin-top: 60px;
+    background: #B5444D;
+    margin-left: 165px;
+    height: 39px;
+    width: 159px;
+    border-radius: 26px;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+}
+
+.suivant a{
+    padding-top: 7px;
+    height: 32px;
+    width: 145px;
+    margin-left: 7px;
+    border-radius: 26px;
+    font-style: bold;
+    display: block;
+    text-align: center;
+    position: relative;
+}
+
+.suivant p{
+    padding-top: 0;
+    margin-left: 0;
 }
 
