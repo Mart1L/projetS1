@@ -48,3 +48,13 @@ h3 {
     margin-left: 39px;
     margin-right: 39px;
 }
+
+html{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 375px;
+}

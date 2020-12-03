@@ -1,0 +1,52 @@
+/*Mise en place de la hauteur et de la couleur de fond de la page*/
+.projets {
+    height: 1200px;
+    background: black;
+}
+
+/*Mise en page des images et des textes*/
+.intro {
+    height: 400px;
+}
+
+.intro p{
+    top: 100px;
+    margin-left: 39px;
+    padding-top: 0;
+}
+
+video {
+    border-radius: 8px;
+    display: block;
+    height: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    background-color: #000;
+    padding-top: 110px;
+}
+
+/*Partie Projets*/
+.projets {
+    height: 1850px;
+}
+.projetall img {
+    top: 0;
+    position: relative;
+    margin-left: 15px;
+}
+
+.projetall  p{
+    height: 70px;
+    width: 248px;
+    margin-left: 110px;
+    top: 90px;
+}
+
+.projetall  p:nth-of-type(10){
+    height: 70px;
+    width: 248px;
+    margin-left: 110px;
+    top: 67px;
+}
+
