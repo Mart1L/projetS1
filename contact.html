@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no,initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>À propos</title>
+    <link rel="stylesheet" href="css/lib/normalize.css">
+    <link rel="stylesheet" href="css/mescss/menu.css">
+    <link rel="stylesheet" href="css/mescss/typography.css">
+    <link rel="stylesheet" href="css/mescss/graphic-styles.css">
+    <link rel="stylesheet" href="css/mescss/contact.css">
+    <script src="https://kit.fontawesome.com/39cf50d25f.js" crossorigin="anonymous"></script>
+</head>
+<body>
+<header>
+    <div class="header"></div>
+    <a href="index.html"> <div class="logo"><img src="img/petitlogo.png" alt="Logo"/></div></a>
+    <p>Numérisk</p>
+    <div class="nav-toggle" onclick="document.documentElement.classList.toggle('menu-open')">
+        <div class="nav-toggle-bar"></div>
+        <div id="moncercle"></div>
+    </div>
+    </div>
+    <nav class="menu">
+        <ul>
+            <li><a href="wargames.html">War Games et galerie</a></li>
+            <li><a href="quantique.html">Les ordinateurs quantiques </a></li>
+            <li><a href="solutions.html">Les solutions</a></li>
+            <li><a href="projets.html">Autres projets</a></li>
+            <li><a href="contact.html">À propos</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <div class="propos">
+        <img src="img/profilcontact.png" alt="photoprofil">
+        <p> Étudiant au département MMI de Montbéliard. Je suis le créateur de ce site dans le cadre du projet de semestre 1 de première année. La thématique de l’environnement est représenté par la pollution numérique. J’ai choisi le film War Games car le synopsis et les critiques de ce film me convenaient et qu’il sortait de l’ordinaire par rapport aux films pris par mes camarades de promotion. Sortant de la spécialité informatique et sciences du Numérique (ISN) au lycée, j’ai choisi d’appeler mon site « Numérisk » en référence à Internet et au danger que l’on court à l’utiliser sans précaution.
+        </p>
+        <h3>Contact</h3>
+    </div>
+    <form action="" method="post">
+        <ul>
+            <li>
+                <label for="name">Nom</label>
+                <input type="text" id="name" name="user_name">
+            </li>
+            <li>
+                <label for="name">Prénom</label>
+                <input type="text" id="firstname" name="user_name">
+            </li>
+            <li>
+                <label for="mail">E-mail</label>
+                <i class="fas fa-exclamation-circle"></i>
+                <input type="email" id="mail" name="user_mail">
+            </li>
+            <li>
+                <label for="msg">Votre message</label>
+                <i class="fas fa-exclamation-circle"></i>
+                <textarea id="msg" name="user_message"></textarea>
+            </li>
+            <li>
+                <p><i class="fas fa-exclamation-circle"></i></i>Champs obligatoires</p>
+            </li>
+            <li class="button">
+                <button type="submit">Envoyer</button>
+            </li>
+        </ul>
+    </form>
+</main>
+<footer>
+    <div class="footer">
+        <a href="mailto:mailto:martin.liger@laposte.net"><div class="gmail"> <img src="img/gmail.png" alt="logogmail"/></div></a>
+        <a href="http://mmimontbeliard.com/"><div class="mmi"> <img src="img/mmiblanc.png" alt="logoMMI"/></div></a>
+        <h3>Martin LIGER TDB1</h3>
+        <p>Projet réalisé dans le cadre d’un exercice pédagogique au département MMI Montbéliard</p>
+    </div>
+</footer>
+</body>
+</html>
