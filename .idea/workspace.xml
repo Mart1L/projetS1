@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9b1679-a6da-4c43-b99c-000919a93ebc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/typography.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +118,7 @@
       <workItem from="1607431278179" duration="3260000" />
       <workItem from="1607437278999" duration="910000" />
       <workItem from="1607441471308" duration="25000" />
-      <workItem from="1607460563532" duration="3422000" />
+      <workItem from="1607460563532" duration="3531000" />
     </task>
     <task id="LOCAL-00001" summary="Première page html">
       <created>1605000593428</created>
@@ -248,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607437558290</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Rectification menu">
+      <created>1607464107115</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607464107115</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,7 +278,8 @@
     <MESSAGE value="à propos et Contact fini" />
     <MESSAGE value="À propos et Contact fini pour de bon" />
     <MESSAGE value="Projet s1 fini" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projet s1 fini" />
+    <MESSAGE value="Rectification menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rectification menu" />
   </component>
   <component name="WindowStateProjectService">
     <state x="997" y="165" key="#SSH_Configurations" timestamp="1605027540803">
@@ -284,10 +290,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606760053573" />
-    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2" timestamp="1607437551688">
+    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2" timestamp="1607464091846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607437551688" />
+    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607464091846" />
     <state x="922" y="165" key="SettingsEditor" timestamp="1605027658409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -296,10 +302,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1606944580211" />
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607437575403">
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607464096068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607437575403" />
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607464096068" />
     <state x="-7" y="0" width="974" height="1047" key="dock-window-1" timestamp="1607462744084">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
