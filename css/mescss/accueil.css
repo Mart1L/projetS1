@@ -145,7 +145,7 @@ h1:first-of-type {
     position: absolute;
 }
 
-.aaccueil2  {
+#aaccueil2  {
     top: 847px;
     z-index: 2;
     display: flex;
@@ -176,10 +176,8 @@ h1:first-of-type {
 /*Mise en place des rectangles de fond*/
 body {
     background-image: url("../../img/wargames.png ");
-    background-position: 0 0 0 0;
     background-repeat: no-repeat;
     background-color: black;
-    position: background;
 }
 
 #firstblue_rect {
