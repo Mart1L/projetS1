@@ -65,4 +65,8 @@ header>p {
     text-align: center;
 }
 
+strong {
+    font-weight: bold;
+    color: #4DBEA3;
+}
 
