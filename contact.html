@@ -2,7 +2,8 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no,initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Le web vous fascine par ses grandes sources de savoir et de divertissement ?
     Numérisk vous permettra de vous renseignez un peu plus sur une face d'Internet que l'on connait peu...">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -17,13 +18,13 @@
 </head>
 <body>
 <header>
-    <div class="header"></div>
-    <a href="index.html"> <div class="logo"><img src="img/petitlogo.png" alt="Logo"/></div></a>
-    <p>Numérisk</p>
-    <div class="nav-toggle" onclick="document.documentElement.classList.toggle('menu-open')">
-        <div class="nav-toggle-bar"></div>
-        <div id="moncercle"></div>
-    </div>
+    <div class="header">
+        <a href="index.html"> <div class="logo"><img src="img/petitlogo.png" alt="Logo"/></div></a>
+        <p>Numérisk</p>
+        <div class="nav-toggle" onclick="document.documentElement.classList.toggle('menu-open')">
+            <div class="nav-toggle-bar"></div>
+            <div id="moncercle"></div>
+        </div>
     </div>
     <nav class="menu">
         <ul>
@@ -42,14 +43,14 @@
         </p>
         <h3>Contact</h3>
     </div>
-    <form action="" method="post">
+    <form method="post">
         <ul>
             <li>
                 <label for="name">Nom</label>
                 <input type="text" id="name" name="user_name">
             </li>
             <li>
-                <label for="name">Prénom</label>
+                <label for="firstname">Prénom</label>
                 <input type="text" id="firstname" name="user_name">
             </li>
             <li>
@@ -63,7 +64,7 @@
                 <textarea id="msg" name="user_message"></textarea>
             </li>
             <li>
-                <p><i class="fas fa-exclamation-circle"></i></i>Champs obligatoires</p>
+                <p><i class="fas fa-exclamation-circle"></i>Champs obligatoires</p>
             </li>
             <li class="button">
                 <button type="submit">Envoyer</button>

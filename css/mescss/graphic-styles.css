@@ -14,7 +14,7 @@
     margin-left: 11px;
 }
 
-header>p {
+.header>p {
     position: fixed;
     color: black;
     top: 39px;
