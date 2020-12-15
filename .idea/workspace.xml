@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9b1679-a6da-4c43-b99c-000919a93ebc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/video/microtrottoir_MartinLIGER.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mescss/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mescss/menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projets.html" beforeDir="false" afterPath="$PROJECT_DIR$/projets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quantique.html" beforeDir="false" afterPath="$PROJECT_DIR$/quantique.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video/microtrottoir.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wargames.html" beforeDir="false" afterPath="$PROJECT_DIR$/wargames.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +126,7 @@
       <workItem from="1607888509076" duration="6548000" />
       <workItem from="1607897783231" duration="5000" />
       <workItem from="1608039180866" duration="1244000" />
-      <workItem from="1608043290897" duration="472000" />
+      <workItem from="1608043290897" duration="769000" />
     </task>
     <task id="LOCAL-00001" summary="Première page html">
       <created>1605000593428</created>
@@ -304,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607895625599</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Rectification erreur menu">
+      <created>1608043805028</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1608043805028</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,7 +333,8 @@
     <MESSAGE value="Mise en place strong" />
     <MESSAGE value="Ajout du microtrottoir" />
     <MESSAGE value="Optimisation site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Optimisation site" />
+    <MESSAGE value="Rectification erreur menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rectification erreur menu" />
   </component>
   <component name="WindowStateProjectService">
     <state x="997" y="165" key="#SSH_Configurations" timestamp="1605027540803">
@@ -345,10 +345,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606760053573" />
-    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2" timestamp="1607895622826">
+    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2" timestamp="1608043796891">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607895622826" />
+    <state x="816" y="124" width="749" height="859" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608043796891" />
     <state x="922" y="165" key="SettingsEditor" timestamp="1605027658409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -357,10 +357,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1606944580211" />
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607895630731">
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608043807176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607895630731" />
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608043807176" />
     <state x="-7" y="0" width="974" height="1047" key="dock-window-1" timestamp="1608043579386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
